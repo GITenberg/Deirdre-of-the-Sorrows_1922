@@ -1,0 +1,36 @@
+_repo: Deirdre-of-the-Sorrows_1922
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Synge, J. M. (John Millington)
+    aliases:
+    - Synge, John Millington
+    - Synge, Edmund John Millington
+    birthdate: 1871
+    deathdate: 1909
+    gutenberg_agent_id: '504'
+    url: http://www.gutenberg.org/2009/agents/504
+    wikipedia: http://en.wikipedia.org/wiki/John_Millington_Synge
+description: First performed in 1910, Deirdre of the Sorrows is based on Irish mythology.
+  It was unfinished at time of the author's death and completed by the poet William
+  Butler Yeats and Synge's fianc e, the actress Molly Allgood. Deirdre, a beautiful
+  young woman, is desired by a powerful but older king, Conchubor, whose pursuit of
+  her leads to tragedy.
+gutenberg_issued: '1999-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1922'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Queens -- Drama'
+- !lcsh 'Epic literature, Irish -- Adaptations'
+- !lcc 'PR'
+- !lcsh 'Deirdre (Legendary character) -- Drama'
+- !lcsh 'Tales -- Ireland -- Adaptations'
+- !lcsh 'Ireland -- Drama'
+- GITenberg
+title: Deirdre of the Sorrows
+url: http://www.gutenberg.org/ebooks/1922
