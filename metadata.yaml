@@ -1,5 +1,8 @@
 _repo: Deirdre-of-the-Sorrows_1922
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Synge, J. M. (John Millington)
@@ -16,6 +19,8 @@ description: First performed in 1910, Deirdre of the Sorrows is based on Irish m
   Butler Yeats and Synge's fianc e, the actress Molly Allgood. Deirdre, a beautiful
   young woman, is desired by a powerful but older king, Conchubor, whose pursuit of
   her leads to tragedy.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1922#Deirdre-of-the-Sorrows
 gutenberg_issued: '1999-10-01'
 gutenberg_type: Text
 identifiers:
